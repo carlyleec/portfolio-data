@@ -1,2 +1,2 @@
-# resume-data
-A collection of markdown files and other assets used to build my resume and portfolio sites and associated backend datasources
+# portfolio-data
+A collection of markdown files and other assets used to build my person website(s), associated backend datasources, and for just general playing around with data.
